@@ -1,14 +1,14 @@
 # Your Daily Planner:
-The intention of this application is to generate a multiple choice quiz using vanilla JavaScript. The questions & answers are based on Ben & Jerry's ice cream. If you click on the wrong answer, you will remain on that question **AND** ten seconds will be deducted from your time! FYI: **The functionality of this quiz is not complete**
+The intention of this application is to alow the user to be able to both record **AND** save thier plans throughout the workday. Even if the user refreshs/leaves the page, as long as they saved their text, it should reappear upon the next loaded render.
 
 See here:
-
-[Ben & Jerry's](https://keepthelidontight.github.io/codeQuiz/)
+s
+[Plan Out Your Work Day]( https://keepthelidontight.github.io/dailyPlanner/)
 <br>
-[GitHub Repository](https://github.com/KeepTheLidOnTight/codeQuiz)
+[GitHub Repository](https://github.com/KeepTheLidOnTight/dailyPlanner)
 
 # Usage Instructions
-Ideally, once fully funcitonal, this application will provide a multiple choice quiz after the user clicks the start button. There are four answers for each question.
+This application will show you which hour of the work day you are in. If you have a task, enter into each hour what you need to get done. Then, click the save button on the right of each block to save your task.
 
 # Installation:
 N/A
@@ -19,14 +19,12 @@ W3 Schools: [W3](https://www.w3schools.com/js/DEFAULT.asp)
 JavaScript: [JS](https://www.javascripttutorial.net/javascript-multidimensional-array/)
 <br>
 I would personally like to thank a majority of the members of my cohort at the University of Minnesota.
+<br>
+My personal tutor, Greg Considine, was of great aid to me. Especially explaining the local storage functionality of this application.
 
 # License Information: 
 N/A
 
 # Furthur Developments/Edits
-<ul>
-<li>Adjust the quiz so each nswer is it's own button</li>
-<li>Locally store and display high scores on the high scores HTML file</li>
-<li>Consider more styling</li>
-</ul>
+Add even more to this application so it includes times outside of the workday</li
 
