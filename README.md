@@ -2,7 +2,7 @@
 The intention of this application is to alow the user to be able to both record **AND** save thier plans throughout the workday. Even if the user refreshs/leaves the page, as long as they saved their text, it should reappear upon the next loaded render.
 
 See here:
-s
+<br>
 [Plan Out Your Work Day]( https://keepthelidontight.github.io/dailyPlanner/)
 <br>
 [GitHub Repository](https://github.com/KeepTheLidOnTight/dailyPlanner)
