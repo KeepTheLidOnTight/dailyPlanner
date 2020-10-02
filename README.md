@@ -26,5 +26,5 @@ My personal tutor, Greg Considine, was of great aid to me. Especially explaining
 N/A
 
 # Furthur Developments/Edits
-Add even more to this application so it includes times outside of the workday</li
+Add even more to this application so it includes times outside of the workday
 
