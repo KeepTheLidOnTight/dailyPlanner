@@ -1,30 +1,33 @@
-# Your Daily Planner:
-The intention of this application is to alow the user to be able to both record **AND** save thier plans throughout the workday. Even if the user refreshs/leaves the page, as long as they saved their text, it should reappear upon the next loaded render.
+# dailyPlanner
 
-See here:
-<br>
-[Plan Out Your Work Day]( https://keepthelidontight.github.io/dailyPlanner/)
-<br>
-[GitHub Repository](https://github.com/KeepTheLidOnTight/dailyPlanner)
+Plan your work day out!
 
-# Usage Instructions
-This application will show you which hour of the work day you are in. If you have a task, enter into each hour what you need to get done. Then, click the save button on the right of each block to save your task.
+## Contributing
 
-# Installation:
 N/A
 
-# Credits/Thanks:
-W3 Schools: [W3](https://www.w3schools.com/js/DEFAULT.asp)
-<br>
-JavaScript: [JS](https://www.javascripttutorial.net/javascript-multidimensional-array/)
-<br>
-I would personally like to thank a majority of the members of my cohort at the University of Minnesota.
-<br>
-My personal tutor, Greg Considine, was of great aid to me. Especially explaining the local storage functionality of this application.
+## Installation
 
-# License Information: 
-N/A
+```
+npm i
+```
 
-# Furthur Developments/Edits
-Add even more to this application so it includes times outside of the workday
+## Tests
+To run tests, run the following command:
+
+```
+npm test
+```
+
+## Questions
+
+To see functionality access the GitHub pages hosted site.
+
+## License
+
+MIT
+
+If you have any questions about the repo, open an issue or contact me directly at Ryan.p.freese@gmail.com. You can find more of my work at [KeepTheLidOnTight](https://github.com/KeepTheLidOnTight/).
+
+
 
